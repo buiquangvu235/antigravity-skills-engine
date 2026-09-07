@@ -1,0 +1,8 @@
+# Configuration for git attributes
+*.css linguist-detectable
+* text=auto
+themes/**/*.css linguist-detectable
+
+*.gif binary
+docs/** linguist-vendored
+# eof eb070af2
